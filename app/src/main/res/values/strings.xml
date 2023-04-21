@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Library System Test</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign up</string>
+    <string name="here">here</string>
+    <string name="login">Login</string>
+    <string name="library">Library</string>
+    <string name="welcome_user">Welcome @User</string>
+    <string name="to_kill_a_mocking_bird">To Kill A Mocking Bird</string>
+    <string name="harper_lee">Harper Lee</string>
+    <string name="fiction">Fiction</string>
+    <string name="sign_up_for_library_system_app">Sign up for Library System App</string>
+    <string name="username_sign_up">Username</string>
+    <string name="password_sign_up">Password</string>
+    <string name="username_prompt">Username</string>
+    <string name="sign_up">Sign up</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="login_link">Login</string>
+
+    <string-array name="book_names">
+        <item>To Kill a Mockingbird</item>
+        <item>The Catcher in the Rye</item>
+        <item>Pride and Prejudice</item>
+        <item>1984</item>
+        <item>The Great Gatsby</item>
+        <item>Java 101</item>
+    </string-array>
+
+    <string-array name="book_authors">
+        <item>Harper Lee</item>
+        <item>J.D. Salinger</item>
+        <item>Jane Austen</item>
+        <item>George Orwell</item>
+        <item>F. Scott Fitzgerald</item>
+        <item>B. Lance Samuel</item>
+    </string-array>
+
+    <string-array name="book_categories">
+        <item>Fiction</item>
+        <item>Classics</item>
+        <item>Mystery</item>
+        <item>Science Fiction</item>
+        <item>Romance</item>
+        <item>Programming</item>
+    </string-array>
+</resources>
